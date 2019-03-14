@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "F:\\anaconda\\envs\\cool_bo\\python.exe",
+    "python.autoComplete.addBrackets": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true
+}
